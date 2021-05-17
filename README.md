@@ -5,4 +5,20 @@ Place the knight on any part of the board it will show the complete visual repre
 
 For better understanding look at the attached images.
 
+
+
 ![](1.png)
+
+
+
+
+![](2.png)
+
+
+
+![](3.png)
+
+
+
+
+![](4.png)
