@@ -5,6 +5,7 @@ Place the knight on any part of the board it will show the complete visual repre
 
 For better understanding look at the attached images.
 
+The turtle module creates an 8 X 8 chess board with
 
 ![](1.png)
 <br/>
