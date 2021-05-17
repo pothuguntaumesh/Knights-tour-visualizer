@@ -24,14 +24,22 @@ Place the knight at any position , this is the starting point of the knight.
 <br/>
 <br/>
 
-
 ![](2.png)
-
+<br/>
+<br/>
+<br/>
+Knights tour starts and it visits all the adjacent nodes
+<br/>
+<br/>
+<br/>
 
 
 ![](3.png)
+<br/>
+<br/>
+<br/>
 
 
 
-
+Whenever it it doesn't find any adjacent places it backtracks,until it finishes all the positions
 ![](4.png)
