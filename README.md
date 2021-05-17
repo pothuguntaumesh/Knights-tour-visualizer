@@ -48,7 +48,7 @@ Whenever it it doesn't find any adjacent places it backtracks,until it finishes 
 <br/>
 <br/>
 
-#Fun Fact
+# Fun Fact
 <br/>
 On an 8 × 8 board, there are exactly 26,534,728,821,064 directed closed tours (i.e. two tours along the same path that travel in opposite directions are counted separately, as are rotations and reflections). The number of undirected closed tours is half this number, since every tour can be traced in reverse!
 
