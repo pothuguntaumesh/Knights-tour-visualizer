@@ -7,8 +7,6 @@ This project demonstrates how backtracking actually works . This project is buil
 Place the knight on any part of the board it will show the complete visual representation of its tour.
 
 <br/>
-<br/>
-<br/>
 
 For better understanding look at the attached images.
 
@@ -42,6 +40,9 @@ Knights tour starts and it visits all the adjacent nodes
 
 
 Whenever it it doesn't find any adjacent places it backtracks,until it finishes all the positions
+<br/>
+<br/>
+<br/>
 ![](4.png)
 <br/>
 <br/>
